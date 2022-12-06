@@ -40,6 +40,7 @@ extern "C" {
 #define INTERFLOP_CHECKFLOATMAX_API(FCT) interflop_checkfloatmax_##FCT
 
 #include "interflop-stdlib/interflop.h"
+#include "interflop-stdlib/interflop_stdlib.h"
 
 typedef struct {
 } checkfloatmax_conf_t;
