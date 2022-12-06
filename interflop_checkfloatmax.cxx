@@ -33,7 +33,7 @@
 #include <stddef.h>
 
 #include "interflop-stdlib/interflop_stdlib.h"
-#include "interflop_check_float_max.h"
+#include "interflop_checkfloatmax.h"
 
 static File *stderr_stream;
 
